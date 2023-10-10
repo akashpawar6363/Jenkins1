@@ -1,1 +1,1 @@
-echo "Omkar fu"
+./your-script.sh
