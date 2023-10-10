@@ -1,1 +1,1 @@
-./your-script.sh
+your-script.sh
