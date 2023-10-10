@@ -1,1 +1,1 @@
-/Jenkins1/your-script.sh
+sh './path/to/your-script.sh'
